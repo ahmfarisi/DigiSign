@@ -28,6 +28,12 @@ The table **user** inside the database store this username and password to login
 ![enter image description here](https://drive.google.com/uc?export=view&id=1pHEi6CLMrCyOo4FNr1OPS_YGcVgqBKYZ)
 ![enter image description here](https://drive.google.com/uc?export=view&id=1iiO2LJd6PRx35KgdF5bNlVPdASzSmPNc)
 
+If the picture above is not loaded, then check out this link for the image :
+
+ - https://drive.google.com/uc?export=view&id=1BFf9DQFjHKT9XtMbokwQ28HRP6iRlP3y
+ - https://drive.google.com/uc?export=view&id=1pHEi6CLMrCyOo4FNr1OPS_YGcVgqBKYZ
+ - https://drive.google.com/uc?export=view&id=1iiO2LJd6PRx35KgdF5bNlVPdASzSmPNc
+
 ## QR Code
 
 Then you can use the QR Code as your digital signature. And the Controller **Token_check** is set to be public (no need session), because this is used to verify the generated QR Code, whether it is genuine or fake.
